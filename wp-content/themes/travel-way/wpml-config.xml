@@ -1,0 +1,79 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_travel-way">
+            <key name="travel_way_theme_options">
+                <key name="travel-way-display-site-logo"/>
+                <key name="travel-way-display-site-title"/>
+                <key name="travel-way-display-site-tagline"/>
+                <key name="travel-way-header-height"/>
+                <key name="travel-way-header-image-display"/>
+                <key name="travel-way-enable-header-top"/>
+                <key name="travel-way-header-top-menu-display-selection"/>
+                <key name="travel-way-header-top-info-display-selection"/>
+                <key name="travel-way-header-top-social-display-selection"/>
+                <key name="travel-way-enable-transparent"/>
+                <key name="travel-way-enable-sticky"/>
+                <key name="travel-way-menu-right-button-options"/>
+                <key name="travel-way-menu-right-button-title"/>
+                <key name="travel-way-menu-right-button-link"/>
+                <key name="travel-way-enable-cart-icon"/>
+                <key name="travel-way-enable-feature"/>
+                <key name="travel-way-slides-data"/>
+                <key name="travel-way-feature-slider-enable-animation"/>
+                <key name="travel-way-feature-slider-display-title"/>
+                <key name="travel-way-feature-slider-display-excerpt"/>
+                <key name="travel-way-fs-image-display-options"/>
+                <key name="travel-way-feature-slider-text-align"/>
+                <key name="travel-way-feature-info-number"/>
+                <key name="travel-way-first-info-icon"/>
+                <key name="travel-way-first-info-title"/>
+                <key name="travel-way-first-info-desc"/>
+                <key name="travel-way-second-info-icon"/>
+                <key name="travel-way-second-info-title"/>
+                <key name="travel-way-second-info-desc"/>
+                <key name="travel-way-third-info-icon"/>
+                <key name="travel-way-third-info-title"/>
+                <key name="travel-way-third-info-desc"/>
+                <key name="travel-way-forth-info-icon"/>
+                <key name="travel-way-forth-info-title"/>
+                <key name="travel-way-forth-info-desc"/>
+                <key name="travel-way-footer-copyright"/>
+                <key name="travel-way-footer-copyright-beside-option"/>
+                <key name="travel-way-footer-bg-img"/>
+                <key name="travel-way-pagination-option"/>
+                <key name="travel-way-enable-animation"/>
+                <key name="travel-way-single-sidebar-layout"/>
+                <key name="travel-way-front-page-sidebar-layout"/>
+                <key name="travel-way-archive-sidebar-layout"/>
+                <key name="travel-way-blog-archive-img-size"/>
+                <key name="travel-way-blog-archive-content-from"/>
+                <key name="travel-way-blog-archive-excerpt-length"/>
+                <key name="travel-way-blog-archive-more-text"/>
+                <key name="travel-way-primary-color"/>
+                <key name="travel-way-header-top-bg-color"/>
+                <key name="travel-way-footer-bg-color"/>
+                <key name="travel-way-footer-bottom-bg-color"/>
+                <key name="travel-way-link-color"/>
+                <key name="travel-way-link-hover-color"/>
+                <key name="travel-way-hide-front-page-content"/>
+                <key name="travel-way-hide-front-page-header"/>
+                <key name="travel-way-wc-shop-archive-sidebar-layout"/>
+                <key name="travel-way-wc-product-column-number"/>
+                <key name="travel-way-wc-shop-archive-total-product"/>
+                <key name="travel-way-wc-single-product-sidebar-layout"/>
+                <key name="travel-way-single-header-title"/>
+                <key name="travel-way-single-img-size"/>
+                <key name="travel-way-popup-widget-title"/>
+                <key name="travel-way-show-breadcrumb"/>
+                <key name="travel-way-search-placeholder"/>
+                <key name="travel-way-social-data"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+
